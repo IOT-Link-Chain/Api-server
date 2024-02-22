@@ -1,6 +1,6 @@
 # Getting started
 
-This is RESTful API which will allow you to interact with ILC blockchain.
+This is RESTful API which will allow you to interact with main IoT Link Chain network.
 
 # How to use it?
 
